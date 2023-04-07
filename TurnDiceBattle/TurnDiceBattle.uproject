@@ -17,6 +17,50 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "TrickyAnimationComponents",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyButtons",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyInteractionSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyEntityResources",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyLevelHelpers",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyDoors",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyKeyringSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyStatusEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyUserInterface",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyGameMode",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyPickups",
+			"Enabled": true
 		}
 	]
 }
